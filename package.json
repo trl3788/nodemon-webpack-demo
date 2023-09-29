@@ -11,8 +11,8 @@
   "author": "Austin Willoughby",
   "license": "ISC",
   "devDependencies": {
-	"eslint": "^8.34.0",
+    "eslint": "^8.50.0",
     "eslint-config-airbnb": "^19.0.4",
-    "eslint-plugin-import": "^2.27.5"
+    "eslint-plugin-import": "^2.28.1"
   }
 }
