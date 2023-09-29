@@ -11,6 +11,7 @@ const urlStruct = {
   '/style.css': htmlHandler.getCSS,
   '/success': jsonHandler.success,
   '/badRequest': jsonHandler.badRequest,
+  '/bundle.js': htmlHandler.getBundle,
   notFound: jsonHandler.notFound,
 };
 
